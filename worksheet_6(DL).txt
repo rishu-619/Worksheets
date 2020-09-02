@@ -1,0 +1,37 @@
+
+					ANSWERS OF DEEP LEARNING
+
+
+
+
+
+1-D
+
+2-D
+
+3-A
+
+4-A
+
+5-A
+
+6-C
+
+7-B
+
+8-A
+
+9-A,B,D
+
+10-B
+
+Q 11-deep learning is a machine learning technique. It teaches a computer to filter inputs through layers to learn how to predict and classify information. Observations can be in the form of images, text, or sound. The inspiration for deep learning is the way that the human brain filters information.
+
+Q 12-Reinforcement learning is an area of Machine Learning. It is about taking suitable action to maximize reward in a particular situation. It is employed by various software and machines to find the best possible behavior or path it should take in a specific situation. Reinforcement learning differs from the supervised learning in a way that in supervised learning the training data has the answer key with it so the model is trained with the correct answer itself whereas in reinforcement learning, there is no answer but the reinforcement agent decides what to do to perform the given task. In the absence of a training dataset, it is bound to learn from its experience.
+
+Q13-ML-A subset of artificial intelligence involved with the creation of algorithms which can modify itself without human intervention to produce desired output- by feeding itself through structured data.
+    DL-A subset of machine learning where algorithms are created and function similar to those in machine learning, but there are numerous layers of these algorithms- each providing a different interpretation to the data it feeds on. Such a network of algorithms are called artificial neural networks, being named so as their functioning is an inspiration, or you may say; an attempt at imitating the function of the human neural networks present in the brain.
+
+Q 14-A perceptron is a neural network unit (an artificial neuron) that does certain computations to detect features or business intelligence in the input data. 
+
+Q 15-I is a bigger concept to create intelligent machines that can simulate human thinking capability and behavior, whereas, machine learning is an application or subset of AI that allows machines to learn from data without being programmed explicitly.
